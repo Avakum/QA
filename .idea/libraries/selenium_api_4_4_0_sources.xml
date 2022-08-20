@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="selenium-api-4.4.0-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-api-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-chrome-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-chromium-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v85-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v102-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v103-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v104-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-edge-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-firefox-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-http-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-ie-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-java-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-json-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-opera-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-remote-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-safari-driver-4.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-support-4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-api-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-chrome-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-chromium-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v85-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v102-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v103-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-devtools-v104-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-edge-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-firefox-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-http-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-ie-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-json-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-opera-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-remote-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-safari-driver-4.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Intelij/Selenium/selenium-support-4.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
